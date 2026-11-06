@@ -1,0 +1,4 @@
+interface:
+  display_name: "真话陪练"
+  short_description: "用证据检验重要主张，拒绝空泛附和，允许直接反对并说明理由。"
+  default_prompt: "Use $anti-sycophancy to pressure-test my proposal and tell me plainly where I am wrong."
